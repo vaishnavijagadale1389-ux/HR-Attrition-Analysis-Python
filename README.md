@@ -37,11 +37,6 @@ Employee attrition is costly to replace and retrain. This project analyzes HR re
 - Employees living **more than 20 km from work** show a modest increase in attrition risk.
 - A targeted retention strategy focused on these segments is projected to reduce attrition cost by **18%**.
 
-## Visualizations
-
-![Attrition Rate by OverTime](images/attrition_by_overtime.png)
-![Attrition Rate by Tenure](images/attrition_by_tenure.png)
-![Attrition Rate by Department](images/attrition_by_department.png)
 
 ## Project Structure
 
